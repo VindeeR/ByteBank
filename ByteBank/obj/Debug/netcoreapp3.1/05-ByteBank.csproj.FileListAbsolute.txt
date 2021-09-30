@@ -1,0 +1,13 @@
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.AssemblyInfo.cs
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.exe
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.deps.json
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.runtimeconfig.json
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.runtimeconfig.dev.json
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.dll
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\bin\Debug\netcoreapp3.1\05-ByteBank.pdb
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.dll
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.pdb
+C:\Users\Sad-Pc\source\repos\05-ByteBank\05-ByteBank\obj\Debug\netcoreapp3.1\05-ByteBank.genruntimeconfig.cache
